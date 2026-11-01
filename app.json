@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "Daylight Study",
+    "slug": "daylight-study",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.daylightstudy.app"
+    },
+    "android": {
+      "package": "com.daylightstudy.app",
+      "adaptiveIcon": {
+        "backgroundColor": "#F7F6F1"
+      }
+    }
+  }
+}
